@@ -9,3 +9,4 @@ A pytorch implement of ColorMapGAN (TGRS2020)
 + discriminator.py：这是ColorMapGAN中的判别器的实现。
 
 这里没有放完整的数据加载、训练、测试的代码，如有需要完整的代码，请关注公众号后在后台留言（微信搜索：阿柴和她的CV学习日记）
+[![二维码](https://github.com/AI-Chen/ColorMapGAN/blob/main/qrcode_for_gh_e41e549f33cd_344.jpg "二维码")]
